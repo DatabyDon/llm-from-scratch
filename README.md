@@ -8,7 +8,7 @@ Working through Sebastian Raschka's *Build a Large Language Model (From Scratch)
 
 - **notebooks/** — chapter-by-chapter code implementations as I work through the book
 - **notes/** — written breakdowns, diagrams, and concepts in my own words
-- **resources.md** — links to the book, videos, and anything else I reference
+- **resources/** — links to the requirements and anything else I reference
 
 ---
 
